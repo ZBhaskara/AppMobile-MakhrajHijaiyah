@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Informasi.unity
+    guid: 64cf3e09b312c0a4ab553bd8e8d00f58
+  - enabled: 1
+    path: Assets/Scenes/MengenalHijaiyah.unity
+    guid: 30425df8d077a3c4e91aa8fbde38dbce
+  - enabled: 1
+    path: Assets/Scenes/Belajarmakhraj.unity
+    guid: c087d55b6e79de948b9774f392e16c96
+  - enabled: 1
+    path: Assets/Scenes/Openkuis.unity
+    guid: 2d65200cc1a85c04daa8f9998f1448dc
+  - enabled: 1
+    path: Assets/Scenes/Kuis.unity
+    guid: db3ce9c2f556b2c4abc49d86ccdd175a
+  - enabled: 1
+    path: Assets/Scenes/Kuis1.unity
+    guid: 72e8396f0fd164e4bb4291ab5ea10386
+  - enabled: 1
+    path: Assets/Scenes/Hamzah.unity
+    guid: 06c53c7871d39ec4bbe2831e41072fb1
+  - enabled: 1
+    path: Assets/Scenes/Ba.unity
+    guid: 1f45e20895afd2d46ac1e5cdd19f8853
+  - enabled: 1
+    path: Assets/Scenes/Ta.unity
+    guid: 43131a1bda144c54ebfdf40bd3945156
+  - enabled: 1
+    path: Assets/Scenes/Tsa.unity
+    guid: 3d3cbb57e7a4a4340960df1fd1f4fffb
+  - enabled: 1
+    path: Assets/Scenes/Ja.unity
+    guid: 138fa26456acccd4b883b90e05e4470e
+  - enabled: 1
+    path: Assets/Scenes/Hatipis.unity
+    guid: 4aefef8e60af2c74aabbaf2be71af0fd
+  - enabled: 1
+    path: Assets/Scenes/Kho.unity
+    guid: 76e7e4d36c3b8a148ae48943e33a4586
+  - enabled: 1
+    path: Assets/Scenes/Dal.unity
+    guid: 4c710625f5a6a894198d6e3e85dc03aa
+  - enabled: 1
+    path: Assets/Scenes/Dzal.unity
+    guid: e9f3c7c4d0ff154499bf9ea8a8406319
+  - enabled: 1
+    path: Assets/Scenes/Ro.unity
+    guid: d6a99a614f2211f4594ae1ebfa457e4b
+  - enabled: 1
+    path: Assets/Scenes/Zay.unity
+    guid: ba4c49d0ff121c84fa6f623ccbdad45c
+  - enabled: 1
+    path: Assets/Scenes/Sin.unity
+    guid: 2563af84b7c474245bc7a996de8828c0
+  - enabled: 1
+    path: Assets/Scenes/Syin.unity
+    guid: 2a9344469478f904989ffba34c951faa
+  - enabled: 1
+    path: Assets/Scenes/Shad.unity
+    guid: 62308fd276061e24da9ea93ffb858193
+  - enabled: 1
+    path: Assets/Scenes/Dhad.unity
+    guid: c7cca87fa0a87c441a227870e84b7ead
+  - enabled: 1
+    path: Assets/Scenes/Tha.unity
+    guid: e5eb595d30d9fd341ae93d41c049be87
+  - enabled: 1
+    path: Assets/Scenes/Dza.unity
+    guid: bfac27feccdde924ca246bb29ece3992
+  - enabled: 1
+    path: Assets/Scenes/Ain.unity
+    guid: ec29c5c0a4ffeb84087e0e759e76e479
+  - enabled: 1
+    path: Assets/Scenes/Ghoin.unity
+    guid: 5cbd812383a512e42a05bac128844c44
+  - enabled: 1
+    path: Assets/Scenes/Fa.unity
+    guid: 174fc7c0b1eae414fa7b34c4d81e699b
+  - enabled: 1
+    path: Assets/Scenes/Qof.unity
+    guid: 67b9403e4c7c41b48a8a8cd674b3230f
+  - enabled: 1
+    path: Assets/Scenes/Kaf.unity
+    guid: 2d62562847aacda48bb7d3e3414daf68
+  - enabled: 1
+    path: Assets/Scenes/Lam.unity
+    guid: f458259ee213fb2419389f7283d8a357
+  - enabled: 1
+    path: Assets/Scenes/Mim.unity
+    guid: 0eb97e41a32c86a4c82d5a5ab80cb98d
+  - enabled: 1
+    path: Assets/Scenes/Nun.unity
+    guid: 4d5bdd07abe2ec54e8c2e01359b5cd3e
+  - enabled: 1
+    path: Assets/Scenes/Wau.unity
+    guid: 6c4c124a284dc344e9a5362ffb56ba34
+  - enabled: 1
+    path: Assets/Scenes/Ha.unity
+    guid: 50daba6e8465358469285e943fed1d04
+  - enabled: 1
+    path: Assets/Scenes/Ya.unity
+    guid: bdcf0f3c41c786d43894796b620a8776
+  - enabled: 0
+    path: Assets/Scenes/BelajarMakhraj2.unity
+    guid: 2ce7d8a8d69602944ae43176e943e0ed
+  - enabled: 0
+    path: Assets/Scenes/Alif.unity
+    guid: 6c247cbf916ee7e4db2551d9427a50e5
+  - enabled: 0
+    path: Assets/Scenes/Baaa.unity
+    guid: 45718e0efa176d64ea7d016326b84269
+  - enabled: 0
+    path: Assets/Scenes/animba.unity
+    guid: 453a5476f2503284ebb2849a62c3c00f
+  m_configObjects: {}
